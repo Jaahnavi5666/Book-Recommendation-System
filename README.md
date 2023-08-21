@@ -14,7 +14,6 @@ Popularity based are a great strategy to target the new customers with the most 
 * Recommend books to users based on purchase history and similarity of ratings provided by other users who bought items to that of a particular customer.
 * A model based collaborative filtering technique is closen here as it helps in predicting books for a particular user by identifying patterns based on preferences from multiple user data.
 An utlity matrix consisting of all possible user-item preferences (ratings) details is generated. The utility matrix is sparce as none of the users would buy all teh items in the list, hence, most of the values are unknown.
-pic
 A decomposition and correlation matrix is created. Correlation of all books with the book purchased by this customer based on items rated by other customers who bought the same book.
 Thereby based on a previous purchase, collaborative filtering is done and top 10 books are recommended.
 ## Recommendation System Part III

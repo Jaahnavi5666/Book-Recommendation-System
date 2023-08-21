@@ -6,4 +6,5 @@ Recommendation system part I: Product popularity based.
 Recommendation system part II: Model-Based Collaborative Filtering System
 Recommendation system part III: Collaborative Filtering System
 
-I used [Amazon Book review](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=Books_rating.csv) Dataset for this project. It consists of two data sets 
+I used [Amazon Book review](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=Books_rating.csv) Dataset for this project. It consists of two data sets: Books_rating and books_data. The books rating dataset contains the book id, book name, rating, etc. And the books data consists of the book title, author, description, category, etc,. So I combined and processed the data together such that it fits my requirements.
+

@@ -19,4 +19,4 @@ A decomposition and correlation matrix is created. Correlation of all books with
 Thereby based on a previous purchase, collaborative filtering is done and top 10 books are recommended.
 ## Recommendation System Part III
 For a business without any book purchase history, a search engine based recommendation system is designed. The book recommendations can be based on the textual clustering analysis given in book description.
-Converted the text in product description into numerical data for analysis using TfidfVectorizer and followed by thay implemented the Kmeans clustering model.
+Converted the text in product description into numerical data for analysis using TfidfVectorizer, followed by the implementation of the Kmeans clustering model.
